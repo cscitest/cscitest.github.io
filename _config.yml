@@ -80,11 +80,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "David Degras-Valabregue"
-  avatar           : "Photo_david.degras.jpg"
+  name             : "David Degras"
+  avatar           : "bio-photo.png"
   bio              : "Assistant Professor, Department of Mathematics"
   location         : "Boston"
-  employer         : "https://www.umb.edu/academics/csm/faculty_staff/david_degras-valabregue"
+  employer         : "University of Massachusetts Boston"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://scholar.google.com/citations?user=CYLjVg4AAAAJ&hl=en"
   email            :  "David.Degras@umb.edu"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/david-degras-77229b23/"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
