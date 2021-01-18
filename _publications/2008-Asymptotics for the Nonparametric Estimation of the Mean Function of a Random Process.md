@@ -1,16 +1,16 @@
 ---
-title: "Convergence De L'Estimateur Spline Cubique De Lissage Dans Un Modèle De Régression Longitudinale Avec Erreur De Type Processus"
+title: "Asymptotics for the Nonparametric Estimation of the Mean Function of a Random Process"
 collection: publications
-permalink: /publication/2005-Jan-01-Convergence De L'Estimateur Spline Cubique De Lissage Dans Un Modèle De Régression Longitudinale Avec Erreur De Type Processus
-excerpt: 'This paper is about dealing with the estimation of a smooth regression function by natural cubic splines.'
-date: 2005-01-01
-venue: 'January 1'
-paperurl: 'https://www.sciencedirect.com/science/article/pii/S1631073X05001494'
-citation: 'D. Degras, R. Jallet, C. R. Acad. Sci. Paris, Ser. I 340 (2005).'
+permalink: /publication/2008 Asymptotics for the Nonparametric Estimation of the Mean Function of a Random Process
+excerpt: 'This paper is about the application to simultaneous confidence intervals is proposed and investigated by simulation.'
+date: 2008
+venue: 'December 1'
+paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S0167715208002526'
+citation: 'D. Degras, Statistics & Probability Letters, Volume 78, Issue 17, Pages 2976-2980'
 ---
-This Note deals with the estimation of a smooth regression function by natural cubic splines. A convergence rate is obtained for the estimate's mean discretized and integrated squared error (MDSE and MISE) with random process noise in the data. To cite this article: D. Degras, R. Jallet, C. R. Acad. Sci. Paris, Ser. I 340 (2005).
+We study the nonparametric estimation of the mean function of a random process indexed by a compact metric space. We elaborate on the asymptotic variance and prove asymptotic normality for a general class of linear estimators. An application to simultaneous confidence intervals is proposed and investigated by simulation..
 
 [Download paper here](https://www.sciencedirect.com/science/article/pii/S1631073X05001494)
 
-Recommended citation: D. Degras, R. Jallet, C. R. Acad. Sci. Paris, Ser. I 340 (2005).
+Recommended citation: D. Degras, Statistics & Probability Letters (2008).
 
