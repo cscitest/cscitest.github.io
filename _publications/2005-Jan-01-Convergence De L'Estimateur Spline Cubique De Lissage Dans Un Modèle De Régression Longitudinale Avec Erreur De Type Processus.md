@@ -1,7 +1,7 @@
 ---
 title: "Convergence De L'Estimateur Spline Cubique De Lissage Dans Un Modèle De Régression Longitudinale Avec Erreur De Type Processus"
 collection: publications
-permalink: /publication/2005-Jan-01-Convergence De L'Estimateur Spline Cubique De Lissage Dans Un Modèle De Régression Longitudinale Avec Erreur De Type Processus
+permalink: /publication/2005 Convergence De L'Estimateur Spline Cubique De Lissage Dans Un Modèle De Régression Longitudinale Avec Erreur De Type Processus
 excerpt: 'This paper is about dealing with the estimation of a smooth regression function by natural cubic splines.'
 date: 2005-01-01
 venue: 'January 1'
