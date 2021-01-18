@@ -83,7 +83,7 @@ author:
   name             : "David Degras"
   avatar           : "biophoto.png"
   bio              : "Assistant Professor, Department of Mathematics"
-  location         : "Boston"
+  location         : #"Boston"
   employer         : "University of Massachusetts Boston"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://scholar.google.com/citations?user=CYLjVg4AAAAJ&hl=en"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/david-degras-77229b23/"
+  linkedin         : "https://www.linkedin.com/in/david-degras-77229b23"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
