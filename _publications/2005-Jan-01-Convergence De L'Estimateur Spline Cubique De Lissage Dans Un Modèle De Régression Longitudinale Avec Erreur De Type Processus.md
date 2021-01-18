@@ -5,7 +5,7 @@ permalink: /publication/2005-Jan-01-Convergence De L'Estimateur Spline Cubique D
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2005-01-01
 venue: 'January 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+paperurl: 'https://www.sciencedirect.com/science/article/pii/S1631073X05001494'
 citation: 'D. Degras, R. Jallet, C. R. Acad. Sci. Paris, Ser. I 340 (2005).'
 ---
 This Note deals with the estimation of a smooth regression function by natural cubic splines. A convergence rate is obtained for the estimate's mean discretized and integrated squared error (MDSE and MISE) with random process noise in the data. To cite this article: D. Degras, R. Jallet, C. R. Acad. Sci. Paris, Ser. I 340 (2005).
