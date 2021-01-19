@@ -5,13 +5,8 @@ permalink: /teaching/
 author_profile: true
 ---
 
-{% include base_path %}
 
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
-{% endfor %}
-
-#### MATH 545 - Probability&Statistics I for Secondary Teachers
+####MATH 545 - Probability&Statistics I for Secondary Teachers
 
 DAYS & TIMES : MoWe 4:00PM - 5:15PM
 
@@ -20,7 +15,7 @@ MEETING DATES : 01/25/2021 - 05/12/2021
 Location: REMOTE
 
 
-#### MATH 648 - Computational Statistics
+####MATH 648 - Computational Statistics
 
 DAYS & TIMES : MoWe 5:30PM - 6:45PM
 
