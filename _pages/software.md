@@ -1,16 +1,24 @@
 ---
 layout: archive
-title: "Publications"
-permalink: /publications/
+title: "Software"
+permalink: /software/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+# R package:
+### [onlinePCA](https://cran.r-project.org/web/packages/onlinePCA/index.html)
+onlinePCA: Online Principal Component Analysis
+Online PCA for multivariate and functional data using perturbation methods, low-rank incremental methods, and stochastic optimization methods.
 
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+Version:	1.3.1
+Depends:	R (≥ 3.0.2), RSpectra
+Imports:	Rcpp (≥ 0.11.4), splines, stats
+LinkingTo:	Rcpp, RcppArmadillo
+Published:	2016-09-22
+Author:	David Degras [aut, cre], Herve Cardot [ctb]
+Maintainer:	David Degras <ddegrasv at gmail.com>
+License:	GPL-3
+URL:	https://cran.r-project.org/package=onlinePCA
+NeedsCompilation:	yes
+Materials:	NEWS
+CRAN checks:	onlinePCA results
