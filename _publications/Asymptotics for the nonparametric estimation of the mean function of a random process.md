@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/Asymptotics for the nonparametric estimation of the mean function of a random process
 venue: "Statistics & Probability Letters"
 date: 1 December 2008
-citation: '<b>David Degras</b>, Patricia Iglesias <i>Volume 78, Issue 17, 1 December 2008, Pages 2976-2980</i>.'
+citation: 'David Degras, Volume 78, Issue 17, 1 December 2008, Pages 2976-2980.'
 ---
 
 ### Abstract
