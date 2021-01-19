@@ -2,6 +2,9 @@
 main:
   - title: "Publications"
     url: /publications/
+    
+  #- title: "Talk"
+   # url: /talk/  
 
   - title: "Software"
     url: /software/    
