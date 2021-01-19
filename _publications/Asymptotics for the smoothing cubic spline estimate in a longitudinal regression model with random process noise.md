@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/Asymptotics for the smoothing cubic spline estimate in a longitudinal regression model with random process noise
 venue: "Comptes Rendus Mathematique"
 date: 2005-01-01
-citation: 'D. Degras, R. Jallet, Volume 78, Issue 17, 1 December 2008, Pages 2976-2980.'
+citation: '<b>D. Degras</b>, R. Jallet, Volume 78, Issue 17, 1 December 2008, Pages 2976-2980.'
 ---
 
 ### Abstract
