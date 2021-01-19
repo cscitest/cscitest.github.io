@@ -5,6 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
+## Spring Semester
 
 ### **MATH 545 - Probability & Statistics I for Secondary Teachers**
 
