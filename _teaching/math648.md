@@ -2,7 +2,7 @@
 title: "MATH 648 - Computational Statistics"
 collection: teaching
 type: "Graduate course"
-permalink: /teaching/MATH 648
+permalink: /teaching/math648
 venue: "UMass Boston, Department of Mathematics"
 date: MoWe 5:30PM - 6:45PM (fall)
 location: "REMOTE"
