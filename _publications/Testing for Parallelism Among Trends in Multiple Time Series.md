@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/Testing for Parallelism Among Trends in Multiple Time Series
 venue: "IEEE Transactions on Signal Processing "
 date: 02 March 2012
-citation: '<b>D. Degras</b> Z.Xu, T.Zhang, W.Wu, Volume 60, Issue 3, March 2012, Pages 1087 - 1097.'
+citation: '<b>D. Degras</b>, Z. Xu, T. Zhang, W. Wu, Volume 60, Issue 3, March 2012, Pages 1087 - 1097.'
 ---
 
 ### Abstract
