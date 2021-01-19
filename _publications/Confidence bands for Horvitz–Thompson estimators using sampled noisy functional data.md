@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/Confidence bands for Horvitz–Thompson estimators using sampled noisy functional data
 venue: "Bernoulli"
 date: 1 December 2008
-citation: '<b>D. Degras</b>, Volume 19, No.5A, 11 Dec 2013, Pages 2067-2097.'
+citation: 'H. Cardot, <b>D. Degras</b>, E. Josserand, Volume 19, No.5A, 11 Dec 2013, Pages 2067-2097.'
 ---
 
 ### Abstract
