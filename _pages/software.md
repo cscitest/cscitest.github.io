@@ -1,11 +1,10 @@
 ---
 layout: archive
-title: "Software"
+title: "R package"
 permalink: /software/
 author_profile: true
 ---
 
-# R package:
 ### [onlinePCA](https://cran.r-project.org/web/packages/onlinePCA/index.html)
 onlinePCA: Online Principal Component Analysis
 Online PCA for multivariate and functional data using perturbation methods, low-rank incremental methods, and stochastic optimization methods.
