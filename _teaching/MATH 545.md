@@ -4,7 +4,7 @@ collection: teaching
 type: "Graduate course"
 permalink: /teaching/MATH 545
 venue: "UMass Boston, Department of Mathematics"
-date: 01/25/2021 - 05/12/2021
+date: MoWe 4:00PM - 5:15PM (01/25/2021 - 05/12/2021)
 location: "REMOTE"
 ---
 
