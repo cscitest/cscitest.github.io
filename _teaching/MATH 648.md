@@ -4,7 +4,7 @@ collection: teaching
 type: "Graduate course"
 permalink: /teaching/MATH 648
 venue: "UMass Boston, Department of Mathematics"
-date: (MoWe 5:30PM - 6:45PM) 01/25/2021 - 05/12/2021
+date: MoWe 5:30PM - 6:45PM (01/25/2021 - 05/12/2021)
 location: "REMOTE"
 ---
 
