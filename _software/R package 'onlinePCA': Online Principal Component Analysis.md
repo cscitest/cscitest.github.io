@@ -1,4 +1,4 @@
-title: "R package 'onlinePCA': Online Principal Component Analysis"
+Title: "R package 'onlinePCA': Online Principal Component Analysis"
 
 ### Description
 Online PCA for multivariate and functional data using perturbation, incremental, and stochastic gradient methods.
