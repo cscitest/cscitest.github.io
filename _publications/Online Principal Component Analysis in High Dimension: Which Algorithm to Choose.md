@@ -1,7 +1,7 @@
 ---
 title: "Online Principal Component Analysis in High Dimension: Which Algorithm to Choose?"
 collection: publications
-permalink: /publications/Online Principal Component Analysis in High Dimension: Which Algorithm to Choose?
+permalink: /publications/Online Principal Component Analysis in High Dimension: Which Algorithm to Choose
 venue: "International Statistical Institute"
 date: 05 July 2017
 citation: 'H. Cardot, <b>D. Degras</b>, Volume 86, Issue 1, 05 July 2017, Pages 29-50.'
