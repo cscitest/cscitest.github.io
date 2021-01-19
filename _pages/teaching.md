@@ -15,6 +15,8 @@ MEETING DATES : 01/25/2021 - 05/12/2021
 Location: REMOTE
 
 
+
+
 ### **MATH 648 - Computational Statistics**
 
 DAYS & TIMES : MoWe 5:30PM - 6:45PM
