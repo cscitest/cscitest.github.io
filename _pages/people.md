@@ -1,8 +1,8 @@
 ---
-title: "MATH 545 - Probability&Statistics I for Secondary Teachers"
+title: "People"
 collection: teaching
 type: "Graduate course"
-permalink: /teaching/math 545
+permalink: /people/people
 venue: "UMass Boston, Department of Mathematics"
 date: 2021
 location: "REMOTE"
