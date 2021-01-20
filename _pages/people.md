@@ -11,4 +11,4 @@ I am affiliated to the Research Group at University of Massachusetts Boston. We 
 
 * [Mr. Yiming Shen](http://yimings.com.cn/) (Sep.2019 to Present)
 
-* Mr. Xinmin (Sam) Chu (Jan.2021 to Present)
+* [Mr. Xinmin (Sam) Chu](https://www.linkedin.com/in/xinmin-chu-b94678106/) (Jan.2021 to Present)
