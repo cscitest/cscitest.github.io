@@ -1,13 +1,14 @@
 ---
 layout: archive
-title: "Current PhD Student"
+title: "People"
 permalink: /people/
 author_profile: true
 ---
 
+I am affiliated to the Research Group at University of Massachusetts Boston. We very welcome research collaborations and visits.
 
-#### MATH 545 - Probability&Statistics I for Secondary Teachers
+#### Current PhD Students
 
-DAYS & TIMES : MoWe 4:00PM - 5:15PM
+* Mr. Yiming Shen (Sep.2019 to Present)
 
-MEETING DATES : 01/25/2021 - 05/12/2021
+* Mr. Xinmin (Sam) Chu (Jan.2021 to Present)
