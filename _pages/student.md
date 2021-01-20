@@ -1,8 +1,8 @@
 ---
-title: "People"
+title: "Current PhD Students"
 collection: teaching
 type: "Graduate course"
-permalink: /people/people
+permalink: /people/student
 venue: "UMass Boston, Department of Mathematics"
 date: 2021
 location: "REMOTE"
